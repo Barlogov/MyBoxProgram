@@ -167,10 +167,16 @@ MonoBehaviour:
   stripsCollection: {fileID: 1024933414}
   stripPrefab: {fileID: 5468262801957679349, guid: bad50d049ca502c41899da4d9da9139d, type: 3}
   blockPrefab: {fileID: 880702980786380998, guid: d552b10d19c56d84889c7d26f77a304c, type: 3}
+  maxPrefab: {fileID: 2743659752195523113, guid: 6f1feab0735e8f84081a4bbcd64324b0, type: 3}
   strips: []
   numberOfStrips: 0
+  sortingStrip: 0
+  doneStrips: []
+  numOfDoneStrips: 0
   blocks: []
   numberOfBlocks: 0
+  sortingBlocks: []
+  sortingLengthBlocks: 0
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0

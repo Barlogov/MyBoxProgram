@@ -6,7 +6,6 @@ public class Strip : MonoBehaviour
 {
 
 	public float maxLength;
-	public float fillLength;
 	public float leftLength;
 
 }
